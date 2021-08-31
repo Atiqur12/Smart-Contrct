@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../app"
+		},
+		{
+			"path": "../build"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../migrations"
+		},
+		{
+			"path": "../node_modules"
+		},
+		{
+			"path": "../test"
+		}
+	]
+}
